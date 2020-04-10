@@ -1,5 +1,5 @@
 import unittest
-from players import Player, Quarterback
+from players import Player, Quarterback, Defense
 from possible_values import *
 from game import Game
 # TODO - some things you can add...
